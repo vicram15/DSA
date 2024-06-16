@@ -15,53 +15,7 @@ This repository contains implementations and applications of various data struct
 
 Repository Structure
 
-data-structures-and-algorithms/
-data-structures-and-algorithms
-    stacks-queues
-        stack.c
-        queue.c
-        applications
-            tower_of_hanoi.c
-            infix_postfix_prefix_conversion.c
-            expression_evaluation.c
-
-    linked-lists
-        singly_linked_list.c
-        doubly_linked_list.c
-        circular_linked_list.c
-        polynomial_manipulations.c
-
-    trees
-        binary_search_tree.c
-        avl_tree.c
-
-    graphs
-        bfs.c
-        dfs.c
-
-    searching
-        linear_search.c
-        binary_search.c
-
-    sorting
-        bubble_sort.c
-        quick_sort.c
-        merge_sort.c
-
-    hashing
-        hashing_techniques.c
-
-    mini_projects
-        snakes_game
-            snakes_game.c
-        sudoku
-            sudoku_solver.c
-        travel_planner
-            travel_planner.c
-        cash_flow_minimizer
-            cash_flow_minimizer.c
-        text_editor
-            text_editor.c
+(https://github.com/vicram15/DSA/assets/172394546/71b5a104-1d89-4476-8f2d-e06d6c61aff9)
 
 
 Instructions to Compile and Run the Code
