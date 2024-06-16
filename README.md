@@ -1,21 +1,18 @@
 Data Structures and Algorithms
 
 Overview
-
 This repository contains implementations and applications of various data structures and algorithms, including:
-.Stack and Queue
-.Singly, Doubly, and Circular Linked Lists
-.Binary Search Tree and AVL Tree
-.Graph Traversals (BFS and DFS)
-.Searching and Sorting Algorithms
-.Hashing Techniques
-.Polynomial Manipulations
-.Mini Projects (Snakes Game, Sudoku, Travel Planner, Cash Flow Minimizer, Text Editor)
+
+![Screenshot 2024-06-17 at 1 22 04 AM](https://github.com/vicram15/DSA/assets/172394546/94cf0cd6-d32f-41f3-90b1-89386dcd14ee)
+
+
 
 
 Repository Structure
 
-(https://github.com/vicram15/DSA/assets/172394546/71b5a104-1d89-4476-8f2d-e06d6c61aff9)
+
+![Screenshot 2024-06-17 at 1 17 33 AM](https://github.com/vicram15/DSA/assets/172394546/770ad339-7530-4a0e-8625-5f25344811fb)
+
 
 
 Instructions to Compile and Run the Code
