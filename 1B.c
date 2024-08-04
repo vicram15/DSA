@@ -3,7 +3,7 @@
 int main() {
     // Variables to store the coordinates
     int x, y;
-
+    // Hello world I am changing this 
     // Prompt the user to enter the coordinates
     printf("Enter the coordinates (x y): ");
     
